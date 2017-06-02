@@ -1,0 +1,6 @@
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\bin\Release\CheckersCLI.exe.config
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\bin\Release\CheckersCLI.exe
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\bin\Release\CheckersCLI.pdb
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\obj\Release\CheckersCLI.csprojResolveAssemblyReference.cache
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\obj\Release\CheckersCLI.exe
+C:\Users\ASULEIM1\documents\visual studio 2012\Projects\Checkers\CheckersCLI\obj\Release\CheckersCLI.pdb

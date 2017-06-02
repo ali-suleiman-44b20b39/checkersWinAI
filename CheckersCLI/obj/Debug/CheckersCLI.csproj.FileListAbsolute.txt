@@ -1,0 +1,5 @@
+C:\Users\ASULEIM1\Documents\Visual Studio 2012\Projects\Checkers\CheckersCLI\bin\Debug\CheckersCLI.exe.config
+C:\Users\ASULEIM1\Documents\Visual Studio 2012\Projects\Checkers\CheckersCLI\bin\Debug\CheckersCLI.exe
+C:\Users\ASULEIM1\Documents\Visual Studio 2012\Projects\Checkers\CheckersCLI\bin\Debug\CheckersCLI.pdb
+C:\Users\ASULEIM1\Documents\Visual Studio 2012\Projects\Checkers\CheckersCLI\obj\Debug\CheckersCLI.exe
+C:\Users\ASULEIM1\Documents\Visual Studio 2012\Projects\Checkers\CheckersCLI\obj\Debug\CheckersCLI.pdb
